@@ -49,10 +49,6 @@ a {
 /* navigation styles end */
 
 /* hero styles start */
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +56,11 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+/* hero styles end */
+
+p {
+    font-size: 16px;
 }
 
 .float-left {
