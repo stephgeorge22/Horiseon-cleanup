@@ -16,9 +16,9 @@ THEN I find a concise, descriptive title
 
 Screenshot:
 
-<img src="./Develop/assets/images/readme-1.jpg" alt="website top screenshot" />
-<img src="./Develop/assets/images/readme-2.jpg" alt="website middle screenshot" />
-<img src="./Develop/assets/images/readme-3.jpg" alt="website bottom screenshot" />
+<img src="./Develop/assets/images/readme-1.JPG" alt="website top screenshot" />
+<img src="./Develop/assets/images/readme-2.JPG" alt="website middle screenshot" />
+<img src="./Develop/assets/images/readme-3.JPG" alt="website bottom screenshot" />
 
 Link to Deployed Application:
 https://stephgeorge22.github.io/Horiseon-cleanup/Develop/
